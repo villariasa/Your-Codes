@@ -1,4 +1,4 @@
-# Code Vault & Practical Algorithms
+# <img src="icons/sparkles.svg" width="28" height="28" align="center" /> Code Vault & Practical Algorithms
 
 <div align="center">
 
@@ -15,21 +15,21 @@
 
 ---
 
-## 📚 Contents
+## <img src="icons/archive-box.svg" width="22" height="22" align="center" /> Contents & Implementations
 
 ### 1. C Algorithmic Inventory Management (`ARRAYS.c`)
-- **Multi-Dimensional Arrays & Pointers:** High-performance stock level monitoring and category classification in pure C.
-- **Stock Automation:** Automatic reorder point detection, price tracking, category addition, and formatted tabular terminal reporting.
-- **Search & Filter Algorithms:** String comparison and structured querying across complex inventory datasets.
+- <img src="icons/cpu-chip.svg" width="16" height="16" align="center" /> **Multi-Dimensional Arrays & Pointers** — High-performance stock level monitoring and category classification in pure C.
+- <img src="icons/bolt.svg" width="16" height="16" align="center" /> **Stock Automation** — Automatic reorder point detection, price tracking, category addition, and formatted tabular terminal reporting.
+- <img src="icons/magnifying-glass.svg" width="16" height="16" align="center" /> **Search & Filter Algorithms** — String comparison and structured querying across complex inventory datasets.
 
 ### 2. Modern React Landing Page (`React-Landing-Page-Template-master/`)
-- Responsive single-page marketing and product showcase template.
-- Modular component structure (Header, Features, About, Services, Gallery, Testimonials, Contact).
-- Smooth CSS animations and mobile-first layout.
+- <img src="icons/window.svg" width="16" height="16" align="center" /> Responsive single-page marketing and product showcase template.
+- <img src="icons/swatch.svg" width="16" height="16" align="center" /> Modular component structure (Header, Features, About, Services, Gallery, Testimonials, Contact).
+- <img src="icons/sparkles.svg" width="16" height="16" align="center" /> Smooth CSS animations and mobile-first layout.
 
 ---
 
-## 🚀 Usage
+## <img src="icons/command-line.svg" width="22" height="22" align="center" /> Usage & Execution
 
 ### Compiling & Running C Programs
 
@@ -55,6 +55,6 @@ npm start
 
 ---
 
-## 📄 License
+## <img src="icons/document-text.svg" width="22" height="22" align="center" /> License
 
 Open source under [MIT License](./React-Landing-Page-Template-master/LICENSE).
